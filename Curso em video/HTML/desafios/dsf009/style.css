@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+h1
+{
+    color: rgb(243, 243, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: auto;
+    margin-top: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+body
+{
+    background-color: rgb(20, 20, 20);
+}
+
+.videos
+{
+    text-align: center;
+    margin-top: 30px; 
+    justify-content: "space-arround";
+}
